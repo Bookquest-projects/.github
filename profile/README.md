@@ -6,7 +6,7 @@ BookQuest is a group project carried out as part of the PDG course at HEIG-VD.
 
 This web platform allows users to scan an ISBN and instantly receive detailed information about the book and personalized reading recommendations. Registered users can also keep track of their reading through shelves, ratings and comments.
 
-The complete documentation about BookQuest can be found in the dedicated [Wiki](https://github.com/Bookquest-projects/documentation/wiki/Welcome-to-the-BookQuest-wiki!).
+The complete documentation about BookQuest can be found in the dedicated [Wiki](https://github.com/Bookquest-projects/documentation/wiki).
 
 ## Project structure
 
@@ -26,3 +26,9 @@ We'd like you to contribute to our project, whether it's reporting a bug, propos
 To do this, we use the [GitHub flow](https://docs.github.com/fr/get-started/using-github/github-flow), so all changes are made through pull requests. We encourage you to create your draft pull request as soon as you start to work, to let other contributors know that the work is in progress.
 
 Please see the [Contributing](https://github.com/Bookquest-projects/documentation/wiki/Contributing) section of the wiki for more information about the contribution rules and process.
+
+## Team
+- Bressoud Émilie
+- Butty Vicky
+- Slimani Walid
+- Steiner Jeremiah
