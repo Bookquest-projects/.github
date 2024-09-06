@@ -1,12 +1,12 @@
-# Project BookQuest [![](https://img.shields.io/badge/licence-MIT-green.svg)](https://opensource.org/licenses/MIT)
+# Project Bookquest [![](https://img.shields.io/badge/licence-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ## Context
 
-BookQuest is a group project carried out as part of the PDG course at HEIG-VD.
+Bookquest is a group project carried out as part of the PDG course at HEIG-VD.
 
 This web platform allows users to scan an ISBN and instantly receive detailed information about the book and personalized reading recommendations. Registered users can also keep track of their reading through shelves, ratings and comments.
 
-The complete documentation about BookQuest can be found in the dedicated [Wiki](https://github.com/Bookquest-projects/documentation/wiki).
+The complete documentation about Bookquest can be found in the dedicated [Wiki](https://github.com/Bookquest-projects/documentation/wiki).
 
 ## Project structure
 
